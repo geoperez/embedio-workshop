@@ -1,5 +1,5 @@
 # embedio-workshop
-Taller de introducción a EmbedIO
+Taller de introducción a [EmbedIO](https://unosquare.github.io/embedio)
 
 ## Instrucciones
 * Instalar .NET Core 2 si no esta instalado.
@@ -8,3 +8,5 @@ Taller de introducción a EmbedIO
 * Clonar localmente este repositorio.
 
 Al finalizar, favor de hacer Pull Request de su fork.
+
+[EmbedIO API Doc](https://unosquare.github.io/embedio/api/EmbedIO.html)
