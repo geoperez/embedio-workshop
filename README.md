@@ -7,6 +7,6 @@ Taller de introducción a [EmbedIO](https://unosquare.github.io/embedio)
 * Hacer fork de este respositorio.
 * Clonar localmente este repositorio.
 
-Al finalizar, favor de hacer Pull Request de su fork.
+Al finalizar el curso, favor de hacer Pull Request de su fork.
 
 [EmbedIO API Doc](https://unosquare.github.io/embedio/api/EmbedIO.html)
